@@ -52,7 +52,7 @@ body {
     flex-wrap: wrap;
     gap: 50px;
     /* background-color: pink; */
-    /* justify-content: space-between; */
+    justify-content: space-between;
     padding: 20px;
     width: 100%;
     align-items: center;
@@ -124,7 +124,7 @@ body {
 }
 .tag_home_link{
     display: flex;
-    /* background-color: red; */
+    background-color: red;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -166,7 +166,7 @@ body {
 }
 .cart_quantity_count{
     margin-top: 16px;
-    /* background-color: red; */
+    background-color: red;
     margin-left: 27px;
     position: absolute;
     font-size: 29px;
@@ -176,7 +176,7 @@ body {
    display: flex;
    align-items: center;
    justify-content: center;
-    /* background-color: yellow; */
+background-color: yellow; 
 }
 .plant_heading{
     width: 400px;
